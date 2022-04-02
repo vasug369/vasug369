@@ -63,11 +63,11 @@ int main(){
 	cout<<"bell value is"<<bell;
 	
 	if(flag==0){
-		cout<<boolalpha<<false;
+//		cout<<boolalpha<<false;
 	}
 	else if ((bell+1)==n){
 	
-		cout<<boolalpha<<true;
+//		cout<<boolalpha<<true;
 	}
 }
 }
