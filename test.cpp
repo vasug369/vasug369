@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 #include<iostream>
 using namespace std;
 int main(){
@@ -15,3 +16,30 @@ int main(){
     cout<<(d==0?"Real Roots":"Imaginary Roots");
     return 0;
 }
+=======
+#include <cmath>
+#include <cstdio>
+#include <vector>
+#include <iostream>
+#include <algorithm>
+#include<conio.h>
+using namespace std;
+
+
+int main() {
+    int N;
+    int arr[N];
+    cin>>N;
+    for(int i=0;i<=N;i++){
+        cin>>arr[i];    
+    }
+    for(int i=N+1;i>-1;i--){
+        cout<< arr[i]<<" ";
+    }
+    
+	getch();
+    
+	return 0;
+}
+
+>>>>>>> 0c9a07d (this is my long time after commit)

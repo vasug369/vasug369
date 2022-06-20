@@ -1,4 +1,5 @@
 #include<stdio.h>
+<<<<<<< HEAD
 #include<string.h>
 int main(){
 	int i;
@@ -15,4 +16,12 @@ int main(){
 	printf("%c",name[i]);
 }
 	printf("this is the new string -->%s",new);
+=======
+#include<windows.h>
+int main(){
+//	char name[30];
+//	gets(name);
+//	printf(name);
+	HWND hWnd = CreateWindow("", "My first GUI window", WS_OVERLAPPEDWINDOW | WS_VISIBLE, 100, 100, 200, 200, NULL, NULL, NULL, NULL);
+>>>>>>> 0c9a07d (this is my long time after commit)
 }
