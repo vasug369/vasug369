@@ -1,0 +1,58 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+nav{
+    display: flex;
+    text-align: justify;
+    
+}
+
+nav li{
+    list-style-type: none;
+    color: white;
+    padding: 10px 10px;
+    margin: 10px 10px;
+    background-color: black;
+ 
+}
+body{
+    background-color: antiquewhite;
+    background-image: url("calc_img.jpg");
+}
+
+.img {
+    opacity: 0;
+}
+
+h1{
+    display: flex;
+    justify-content: center;
+    color:red;
+    height: 75px;
+    background-color: black;
+    bottom: 0;
+}
+
+.container{
+    background-color:cyan;
+    height: 250px;
+    margin: 100px 520px;
+    width: 20vw;
+}
+
+.txt{
+    
+    width: 19vw;
+}
+
+
+button{
+    margin: 20px 30px;
+    cursor: pointer;
+    color:white;
+    background-color: blueviolet;
+    width: 17px;
+}
+

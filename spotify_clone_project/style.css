@@ -1,0 +1,129 @@
+/* @import url(); */
+/* table{
+    background-color: blue;
+    font-style: oblique;
+    color:yellow;
+
+} */
+
+body{
+    background-color: antiquewhite;
+}
+
+*{
+    margin: 0;
+    padding: 0;
+} 
+
+nav{
+    text-align:justify;
+
+}
+
+nav ul{
+    display: flex;
+    align-items: center;
+    list-style-type: none;
+    height: 65px;
+    background-color: black;
+    color:white;
+}
+
+nav ul li{
+    padding: 0 10px;
+}
+.brand img{
+    width: 44px;
+    padding: 0 8px;
+}
+
+.brand{
+    display: flex ;
+    align-items: center;
+    font-weight: bolder;
+    font-size: 1.3rem;
+}
+.container{
+    min-height: 70vh;
+    background-color: black;
+    display: flex;
+    margin: 23px auto;
+    width: 70%;
+    color: white;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    border-radius: 12px;
+    /* background-image: url("bg.png"); */
+    background-image: url("bg.png");
+    padding: 34px;
+}
+.bottom{
+    position: sticky;
+    height: 130px;
+    background-color: black; 
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center ;
+    flex-direction: column;
+}
+
+.icons{
+    margin: 12px 0;
+    /* width: auto; */
+    
+    /* size: 500px; */
+
+}
+
+.icons i{
+    cursor: pointer; 
+}
+#myprogressbar{
+    width: 80vw;
+    text-align: center;
+    cursor: pointer;
+}
+.songItem{
+    height: 50px;
+    display: flex;
+    background-color: white;
+    color: black;
+    margin: 12px 0;
+    justify-content: space-between ;
+    align-items: center;
+    border-radius: 32px;
+
+
+}
+
+.songitemcontainer{
+    margin-top: 74px;
+}
+.songItem img{
+    width: 70px;
+    margin: 0 23px;
+    border-radius: 34px ; 
+    
+}
+
+.timestamp{
+    margin: 0 23px;;
+}
+
+.timestamp i{
+    cursor: pointer;
+    
+}
+
+.songinfo{
+    position: absolute;
+    left: 10vw;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+
+}
+
+@media screen and (max-width: 1100px) {
+    body {
+      background-color:red;
+    }
+  }
