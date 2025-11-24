@@ -10,7 +10,7 @@
 - 🧠 Currently building my path toward becoming a **Humanoid Robotics Researcher**  
 - 🛠 Love building systems with **sensors, communication protocols, microcontrollers, and automation**  
 - ♟️ Chess lover — strategic thinker and problem-solver  
-- 📫 Reach me: **your-email@gmail.com**
+- 📫 Reach me: **vasupankajdbd@gmail.com**
 
 ---
 
