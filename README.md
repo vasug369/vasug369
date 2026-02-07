@@ -1,10 +1,14 @@
 <h1 align="center">Hi 👋, I'm Vasu Gupta</h1>
 <h3 align="center">Final-year CSE Student | IoT & Robotics Enthusiast | MERN Developer | AI/ML Explorer</h3>
 
+<p align="center">
+  🌐 <a href="https://portfolio-frontend-three-sigma-89.vercel.app/" target="_blank"><b>Visit My Portfolio</b></a>
+</p>
+
 ---
 
 ### 🚀 About Me  
-- 🎓 Final-year **Computer Science Engineering** student at CGC Landran  
+- 🎓 Final-year **Computer Science Engineering** student at **CGC Landran**  
 - 🤖 Passionate about **IoT, Robotics, AI/ML, Embedded Systems**  
 - 💻 Strong in **Python, C++, MERN Stack, ESP32, Angular, Linux Networking**  
 - 🧠 Currently building my path toward becoming a **Humanoid Robotics Researcher**  
@@ -33,23 +37,23 @@ Linux • Docker • Git • Postman
 ### 🔥 Featured Projects  
 *(Only Completed / Stable Projects)*
 
-#### 🎮 **Hand Gesture Volume Control**
+#### 🎮 **Hand Gesture Volume Control**  
 **Tech:** OpenCV, MediaPipe, Python, Pycaw  
 Real-time volume control system using hand gestures and computer vision.
 
-#### 🌡️ **Smart Weather Monitoring System**
+#### 🌡️ **Smart Weather Monitoring System**  
 **Tech:** ESP32, Node.js, MongoDB, Python  
 Collects atmospheric data, stores it on a server, and supports automation logic.
 
-#### 🎭 **Emotion Detection System (Real-Time)**
+#### 🎭 **Emotion Detection System (Real-Time)**  
 **Tech:** Roboflow, OpenCV, Deep Learning  
 Recognizes human emotions in real-time via webcam.
 
-#### 📡 **Bluetooth-Controlled Home Automation**
+#### 📡 **Bluetooth-Controlled Home Automation**  
 **Tech:** ESP32, Arduino, HC-05  
 Controls electronic devices (like LEDs) through mobile Bluetooth commands.
 
-#### 🎬 **Movie Recommendation System**
+#### 🎬 **Movie Recommendation System**  
 **Tech:** Python  
 Gives suggestions based on user interest and genre-based filtering.
 
@@ -73,7 +77,8 @@ Gives suggestions based on user interest and genre-based filtering.
 ---
 
 ### 🌐 Connect With Me  
-LinkedIn • Portfolio • Email
+- 💼 **Portfolio:** https://portfolio-frontend-three-sigma-89.vercel.app/  
+- 📧 **Email:** vasupankajdbd@gmail.com  
 
 ---
 
