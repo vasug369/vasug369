@@ -1,65 +1,135 @@
 <h1 align="center">Hi 👋, I'm Vasu Gupta</h1>
-<h3 align="center">Final-year CSE Student | IoT & Robotics Enthusiast | MERN Developer | AI/ML Explorer</h3>
+
+<h3 align="center">
+Backend Engineer • MERN Stack Developer • Systems & AI Enthusiast
+</h3>
 
 <p align="center">
-  🌐 <a href="https://portfolio-frontend-three-sigma-89.vercel.app/" target="_blank"><b>Visit My Portfolio</b></a>
+  🌐 
+  <a href="https://portfolio-frontend-three-sigma-89.vercel.app/" target="_blank">
+    <b>Visit My Portfolio</b>
+  </a>
 </p>
 
 ---
 
-### 🚀 About Me  
-- 🎓 Final-year **Computer Science Engineering** student at **CGC Landran**  
-- 🤖 Passionate about **IoT, Robotics, AI/ML, Embedded Systems**  
-- 💻 Strong in **Python, C++, MERN Stack, ESP32, Angular, Linux Networking**  
-- 🧠 Currently building my path toward becoming a **Humanoid Robotics Researcher**  
-- 🛠 Love building systems with **sensors, communication protocols, microcontrollers, and automation**  
-- ♟️ Chess lover — strategic thinker and problem-solver  
-- 📫 Reach me: **vasupankajdbd@gmail.com**
+## 🚀 About Me
+
+- 🎓 Final-year **Computer Science Engineering** student at **CGC Landran**
+- 💻 Backend-focused engineer with experience in building scalable web applications and RESTful APIs
+- ⚙️ Strong interest in:
+  - Backend Engineering
+  - System Design
+  - Distributed Systems
+  - Computer Networks
+  - Operating Systems
+- 🧠 Currently working with modern backend technologies including:
+  - Node.js
+  - Express.js
+  - Laravel
+  - MySQL
+  - MongoDB
+  - Prisma
+- 🌐 Experienced in full-stack development using the MERN ecosystem
+- 🐧 Linux enthusiast with hands-on exposure to Docker, networking, APIs, and deployment workflows
+- 📈 Solved **200+ DSA problems** across LeetCode & HackerRank
+- 🤖 Also explore AI/ML, Embedded Systems, and intelligent automation as areas of curiosity and long-term exploration
+- ♟️ Chess lover — enjoy strategic thinking and solving complex engineering problems
 
 ---
 
-### 🧩 Tech Stack & Tools
+## 💼 Experience
 
-#### 💻 Programming Languages  
-Python • C++ • JavaScript • TypeScript
+### Software Engineer — Ginger Webs Pvt. Ltd.
+**Jan 2025 – Present**
 
-#### 🌐 Web Development  
-React • Node.js • Express • MongoDB • Next.js • Angular
-
-#### 🤖 Robotics, IoT & Embedded  
-ESP32 • Arduino • OpenCV • NumPy • MediaPipe
-
-#### ⚙️ DevOps & Tools  
-Linux • Docker • Git • Postman
+- Working on scalable examination and assessment platforms
+- Building and integrating RESTful APIs
+- Contributing to frontend and backend workflows
+- Working with React.js, Laravel, MySQL, and modern web architecture patterns
+- Participating in real-world SDLC, debugging, optimization, and production workflows
 
 ---
 
-### 🔥 Featured Projects  
-*(Only Completed / Stable Projects)*
+## 🧩 Tech Stack
 
-#### 🎮 **Hand Gesture Volume Control**  
-**Tech:** OpenCV, MediaPipe, Python, Pycaw  
-Real-time volume control system using hand gestures and computer vision.
+### 💻 Languages
+- JavaScript
+- TypeScript
+- Python
+- C++
 
-#### 🌡️ **Smart Weather Monitoring System**  
-**Tech:** ESP32, Node.js, MongoDB, Python  
-Collects atmospheric data, stores it on a server, and supports automation logic.
+### 🌐 Backend & Full Stack
+- Node.js
+- Express.js
+- Laravel
+- React.js
+- Next.js
+- Angular
+- MongoDB
+- MySQL
+- Prisma
 
-#### 🎭 **Emotion Detection System (Real-Time)**  
-**Tech:** Roboflow, OpenCV, Deep Learning  
-Recognizes human emotions in real-time via webcam.
+### ⚙️ Tools & Systems
+- Linux
+- Docker
+- Git & GitHub
+- Postman
+- REST APIs
+- Linux Networking
 
-#### 📡 **Bluetooth-Controlled Home Automation**  
-**Tech:** ESP32, Arduino, HC-05  
-Controls electronic devices (like LEDs) through mobile Bluetooth commands.
-
-#### 🎬 **Movie Recommendation System**  
-**Tech:** Python  
-Gives suggestions based on user interest and genre-based filtering.
+### 🤖 Other Explorations
+- ESP32
+- Arduino
+- OpenCV
+- MediaPipe
+- NumPy
 
 ---
 
-### 📊 GitHub Stats  
+## 🔥 Featured Projects
+
+### 💬 Chattrix — Real-Time Chat Application
+**Tech:** MERN Stack, Socket.IO, JWT
+
+Built a full-stack real-time chat application with secure authentication, RESTful backend architecture, and live communication features.
+
+---
+
+### 🎮 Hand Gesture Volume Control
+**Tech:** OpenCV, MediaPipe, Python, Pycaw
+
+Computer vision-based system that controls system volume using real-time hand gesture recognition.
+
+---
+
+### 🌡️ Smart Weather Monitoring System
+**Tech:** ESP32, Node.js, MongoDB, Python
+
+IoT-enabled monitoring system that collects environmental data and supports automation workflows.
+
+---
+
+### 🎭 Emotion Detection System
+**Tech:** Roboflow, OpenCV, Deep Learning
+
+Real-time webcam-based emotion recognition system using computer vision techniques.
+
+---
+
+## 📚 Currently Exploring
+
+- Advanced Backend Engineering
+- System Design
+- Distributed Systems
+- AI/ML Fundamentals
+- Scalable API Architecture
+- Linux Internals & Networking
+
+---
+
+## 📊 GitHub Stats
+
 <p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=vasug369&show_icons=true&theme=tokyonight" />
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=vasug369&theme=tokyonight" />
@@ -71,15 +141,23 @@ Gives suggestions based on user interest and genre-based filtering.
 
 ---
 
-### 🧠 Quote I Live By  
-> “Focus on building things today that your future self will thank you for.”
+## 🧠 Philosophy
+
+> “Focus on building strong fundamentals and systems that scale — complexity becomes manageable when the foundations are solid.”
 
 ---
 
-### 🌐 Connect With Me  
-- 💼 **Portfolio:** https://portfolio-frontend-three-sigma-89.vercel.app/  
-- 📧 **Email:** vasupankajdbd@gmail.com  
+## 🌐 Connect With Me
+
+- 💼 Portfolio:  
+  https://portfolio-frontend-three-sigma-89.vercel.app/
+
+- 📧 Email:  
+  vasupankajdbd@gmail.com
+
+- 🔗 LinkedIn:  
+  https://www.linkedin.com/in/vasu-gupta-bb44b222b/
 
 ---
 
-⭐ **If you like my work, consider giving a star to my repositories!**
+⭐ If you like my work or projects, consider giving a star to the repositories!
